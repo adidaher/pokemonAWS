@@ -1,0 +1,11 @@
+{
+    "venusaur": {
+        "url": "https://pokeapi.co/api/v2/pokemon/3/"
+    },
+    "charmander": {
+        "url": "https://pokeapi.co/api/v2/pokemon/4/"
+    },
+    "charmeleon": {
+        "url": "https://pokeapi.co/api/v2/pokemon/5/"
+    }
+}
